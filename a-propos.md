@@ -1,6 +1,6 @@
 # À propos
 
-Je suis étudiant·e en M2 à l'Université de Strasbourg.
+Je suis étudiante en M2 à l'Université de Strasbourg et je suis mariée 
 
 Ce site sert à montrer ce qu'on peut publier sans rien installer :
 
